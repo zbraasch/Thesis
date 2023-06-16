@@ -1,0 +1,3 @@
+{
+    "python.analysis.extraPaths": ["app", "c:\\users\\admin\\appdata\\roaming\\python\\python310\\site-packages"]
+}
